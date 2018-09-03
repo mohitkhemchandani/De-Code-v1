@@ -10,3 +10,5 @@ You can send this file to your friend, where he/she will have this "software" wa
 All your friend has to do is to paste the file in the same directory as the "software", and run it...
 
 Enjoy!
+
+PS. I created this program for Windows as it has some includes that may not work on Linux and/or Mac. But have fun changing them all you want.
