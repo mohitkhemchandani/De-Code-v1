@@ -1,3 +1,17 @@
+/*
+
+	Author: Praman Kasliwal
+	Licence: Free(Open Source)
+	Note from Author: 
+Oh! So you really looked into the source code?! Wow!!! I mean you really are Geek...
+Well what can I really do?... 
+*horribly singing* 
+What can I say, except, your Welcome?! I'm just an ordinary human guy...
+*stopping after hearing my own voice* *clears throat*
+Bon Chance!!! Au revoir!!!
+Enjoy!
+
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
@@ -185,7 +199,7 @@ int main()
 	system("cls");
 	system("COLOR 70");
 	printf("\n\t\t\tCredits\n\t\t\t--------\n");delay(1000);
-	printf("\t\tCreated By: \n\t\t\tPraman Kasliwal\n\t\t\tAanjaneya Singh Dhoni\n\t\t\tMohit Khemchandani\n\t\t\tHarshit Jain");
+	printf("\t\tCreated By: \n\t\t\tPraman Kasliwal");
 	delay(3000);
 	return 0;
 }
